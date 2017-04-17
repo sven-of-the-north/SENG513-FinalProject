@@ -18,7 +18,7 @@ If you are using a different distribution, use the appropriate package manager f
 +
 . Run mongodb with dbpath as the dbstorage folder you just made
 +
-Example: `mongod --dbpath='./dbstorage --port 27017`
+Example: `mongod --dbpath='./dbstorage' --port 27017`
 +
 NOTE: You may need to add mongodb to your PATH variable
 +
